@@ -20,7 +20,7 @@
 
     copy:
 
-      src: /etc/ansible/playbook/datetime.sh 
+      src: datetime.sh 
 
       dest: /etc/ansible/facts.d/date_time.fact
 
